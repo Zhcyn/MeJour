@@ -1,0 +1,2 @@
+# MeJour
+This is an application under development to record their own travel records.Users can record their daily itineraries by adding their own itineraries and journeys. The current project is still under development, if you encounter problems in the test, please contact me
